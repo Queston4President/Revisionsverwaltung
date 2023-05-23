@@ -1,13 +1,14 @@
 
-public class Jakob extends Schueler
+
+public class Noam extends Schueler
 {
     private String Name;
     private int Alter;
 
-    public Jakob()
+    public Noam()
     {
-        Name = "Jakob";
-        Alter = 17;
+        Name = "Noam";
+        Alter = 16;
     }
     
     public void GibInfo()
